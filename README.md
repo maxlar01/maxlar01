@@ -2,13 +2,11 @@
 
 **`Full Stack Engineer`**
 
-Hello there 👋, I am a professional full stack engineer who likes to have fun while coding. I mainly build web apps but also like to play around with interesting technologies as well.
+Hello there 👋, I am a professional full stack engineer who likes to have fun while coding. I mainly build web apps but also like to play around with interesting technologies as well. Feel free to contact me and I will reply when I am available 💬
 
 ![cool gif](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
 
 ### 🧰 Languages and Tools
-
-<!-- <br /> -->
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
@@ -25,13 +23,15 @@ Hello there 👋, I am a professional full stack engineer who likes to have fun 
 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-<img align="left" alt="Express" width="30px" style="padding-right:10px; background-color: #fff;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+
+<img align="left" alt="nestjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 
 <img align="left" alt="socketio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
 
 <img align="left" alt="graphql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 
-<img align="left" alt="jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <img align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
