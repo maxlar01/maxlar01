@@ -1,11 +1,13 @@
 <div align="center"><h1>🤖 Maxlar</h1></div> 
 <br />
+
+### 😸 Who am I?
 Hello there 👋, I am a professional full stack engineer who likes to have fun while coding. I mainly build web apps but also like to play around with interesting technologies as well. Feel free to contact me and I will reply when I am available 💬
-<br />
+
 ![cool gif](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
 
 ### 🧰 Languages and Tools
-<div align="center">
+<br />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -36,5 +38,5 @@ Hello there 👋, I am a professional full stack engineer who likes to have fun 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-</div>
+
 <br />
