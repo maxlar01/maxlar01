@@ -1,4 +1,4 @@
-<div align="center"># 🤖 Maxlar</div> 
+<div align="center"><h1>🤖 Maxlar</h1></div> 
 
 **`Full Stack Engineer`**
 
