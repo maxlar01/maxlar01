@@ -20,26 +20,26 @@ Hello there 👋, I am a professional full stack engineer who likes to have fun 
 
 <img align="left" alt="Ubuntu" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 
-<img align="left" alt="NodeJS" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Nodejs" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
 <img align="left" alt="React" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<img align="left" alt="Next" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+<img align="left" alt="Nextjs" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 
 <img align="left" alt="Express" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
-<img align="left" alt="nestjs" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+<img align="left" alt="Nestjs" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 
-<img align="left" alt="socketio" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
+<img align="left" alt="MongoDB" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
-<img align="left" alt="graphql" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+<img align="left" alt="Graphql" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 
-<img align="left" alt="vscode" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="PostgreSQL" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 
-<img align="left" alt="docker" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Docker" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
-<img align="left" alt="Python" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<img align="left" alt="Bash" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 
 <br />
