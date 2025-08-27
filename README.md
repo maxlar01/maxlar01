@@ -1,8 +1,8 @@
 <div align="center"><h1>🤖 Maxlar</h1></div>
 
-### 😸 Who am I?
+### 😊 Who am I?
 
-Hello there 👋, I am a Full Stack engineer who likes to have fun while coding. I mainly build web apps but also like to try out other interesting technologies as well. I play video games and watch TV shows.
+Hello there 👋, I am a Full Stack Engineer. I mainly build web apps.
 
 ![cool gif](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
 
