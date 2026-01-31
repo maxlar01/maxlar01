@@ -10,7 +10,7 @@ Hello there 👋, my name is Moustafa Rakha. I am a DevOps Engineer.
 
 <img align="left" alt="Git" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img align="left" alt="Ubuntu" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img align="left" alt="Ubuntu" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 
 <img align="left" alt="MongoDB" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
@@ -27,5 +27,7 @@ Hello there 👋, my name is Moustafa Rakha. I am a DevOps Engineer.
 <img align="left" alt="Bash" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 
 <img align="left" alt="AWS" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
+<img align="left" alt="Terraform" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
 
 <br />
