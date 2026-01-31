@@ -2,7 +2,7 @@
 
 ### 😊 Who am I?
 
-Hello there 👋, my name is Moustafa Rakha. I am a DevOps Engineer.
+Hi, my name is Moustafa Rakha. I am a DevOps Engineer.
 
 ![cool gif](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
 
@@ -11,6 +11,8 @@ Hello there 👋, my name is Moustafa Rakha. I am a DevOps Engineer.
 <img align="left" alt="Git" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <img align="left" alt="Ubuntu" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+
+<img align="left" alt="Arch" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 
 <img align="left" alt="MongoDB" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
